@@ -4,3 +4,9 @@
 [submodule "hadoop-BAM-cookbook"]
 	path = hadoop-BAM-cookbook
 	url = https://github.com/guillermo-carrasco/hadoop-BAM-cookbook.git
+[submodule "java"]
+	path = java
+	url = https://github.com/opscode-cookbooks/java.git
+[submodule "git"]
+	path = git
+	url = https://github.com/opscode-cookbooks/git.git

@@ -1,6 +1,6 @@
-[submodule "cloudera-hadoop"]
-	path = cloudera-hadoop
-	url = https://github.com/guillermo-carrasco/cloudera-hadoop.git
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/guillermo-carrasco/hadoop.git
 [submodule "hadoop-BAM-cookbook"]
 	path = hadoop-BAM-cookbook
 	url = https://github.com/guillermo-carrasco/hadoop-BAM-cookbook.git

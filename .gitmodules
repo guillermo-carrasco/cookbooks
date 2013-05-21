@@ -1,6 +1,3 @@
-[submodule "hadoop"]
-	path = hadoop
-	url = https://github.com/guillermo-carrasco/hadoop.git
 [submodule "hadoop-BAM-cookbook"]
 	path = hadoop-BAM-cookbook
 	url = https://github.com/guillermo-carrasco/hadoop-BAM-cookbook.git
@@ -13,3 +10,6 @@
 [submodule "ant"]
 	path = ant
 	url = https://github.com/opscode-cookbooks/ant.git
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/guillermo-carrasco/hadoop.git

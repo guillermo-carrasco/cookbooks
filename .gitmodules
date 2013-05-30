@@ -13,3 +13,6 @@
 [submodule "hadoop"]
 	path = hadoop
 	url = https://github.com/guillermo-carrasco/hadoop.git
+[submodule "pydoop-cookbook"]
+	path = pydoop-cookbook
+	url = https://github.com/guillermo-carrasco/pydoop-cookbook.git

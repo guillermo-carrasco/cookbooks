@@ -5,5 +5,6 @@ do
     cd $f && git pull origin master && git add * && cd ..
 done
 
+git add *
 git commit -m "Updated cookbooks"
 git push origin master

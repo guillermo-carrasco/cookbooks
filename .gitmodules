@@ -16,3 +16,6 @@
 [submodule "pydoop-cookbook"]
 	path = pydoop-cookbook
 	url = https://github.com/guillermo-carrasco/pydoop-cookbook.git
+[submodule "seal-cookbook"]
+	path = seal-cookbook
+	url = http://github.com/guillermo-carrasco/seal-cookbook.git

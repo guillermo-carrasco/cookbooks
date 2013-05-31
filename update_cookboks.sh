@@ -2,7 +2,7 @@
 
 for f in `cat COOKBOOKS`
 do
-    cd $f && git pull origin master && git add * && cd ..
+    cd $f && git pull origin master && cd ..
 done
 
 git add *
